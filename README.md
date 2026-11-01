@@ -31,4 +31,4 @@ Note:
 
 Messages are saved in React state and are not persistent. Refreshing the page will result in all messages being lost.
 
-![alt text](./src/assets/image.png)
+![alt text](image.png)
